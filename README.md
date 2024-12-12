@@ -26,5 +26,5 @@
 <a target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png" alt="jira" width="48" height="30"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUJduCBVuw7_OChtpH286nPBent_DfoXzWw&s" alt="Youtrack" width="48" height="40"/> </a>
 <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="48" height="40"/> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="48" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="48" height="40"/> </a> 
 </p>
